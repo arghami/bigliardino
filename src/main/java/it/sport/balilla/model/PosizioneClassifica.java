@@ -1,4 +1,4 @@
-package it.indra.balilla.model;
+package it.sport.balilla.model;
 
 public class PosizioneClassifica<T> implements Comparable<PosizioneClassifica<T>>{
 

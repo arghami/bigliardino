@@ -1,4 +1,4 @@
-package it.indra.balilla.entity;
+package it.sport.balilla.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
