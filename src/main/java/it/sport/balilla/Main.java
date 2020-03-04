@@ -1,11 +1,11 @@
-package it.indra.balilla;
+package it.sport.balilla;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-import it.indra.balilla.entity.Giocatore;
-import it.indra.balilla.entity.Partita;
+import it.sport.balilla.entity.Giocatore;
+import it.sport.balilla.entity.Partita;
 
 public class Main {
 

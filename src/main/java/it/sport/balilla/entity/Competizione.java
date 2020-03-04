@@ -1,4 +1,4 @@
-package it.indra.balilla.entity;
+package it.sport.balilla.entity;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,7 +12,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
 
-import it.indra.balilla.model.PosizioneClassifica;
+import it.sport.balilla.model.PosizioneClassifica;
 
 @Entity
 public class Competizione {

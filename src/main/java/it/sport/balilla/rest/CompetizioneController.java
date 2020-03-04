@@ -1,4 +1,4 @@
-package it.indra.balilla.rest;
+package it.sport.balilla.rest;
 
 import java.util.Optional;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import it.indra.balilla.entity.Competizione;
-import it.indra.balilla.repository.CompetizioneRepository;
+import it.sport.balilla.entity.Competizione;
+import it.sport.balilla.repository.CompetizioneRepository;
 
 @RestController
 public class CompetizioneController {
